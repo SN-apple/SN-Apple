@@ -1,13 +1,13 @@
 ### Hello there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SN-Apple&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SN-Apple&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SN-Apple)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SomeOfNothingArts&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SomeOfNothingArts&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeOfNothingArts)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
-**SN-apple/SN-Apple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SomeOfNothingArts/SomeOfNothingArtse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
